@@ -2,7 +2,7 @@
 
 
 
-#PLEASE RUN ONCE BEFORE PLAYING TO AVOID MUSIC DELAY
+#PLEASE RUN ONCE BEFORE PLAYING TO AVOID DELAY
 
 
 
@@ -35,16 +35,15 @@ mouth_shapes={
 
 #I just realized that vertical sentences goes from right to left in Japanese, so 2 is actually supposed to be 1 but it's too late
 #I hate (the language) Japanese
-mouth_sequence2="-"*65+"o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-  uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeu-u-u-aeo        a au-ae-        a au-ae-        a au-ae-        a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-  uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeu-u-u-aeo        a au-ae-        a au-ae-        a au-ae-        a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio "+"-"*160
-mouth_sequence1="-"*65+"o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-          uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeo                a au-ae-        a au-ae-        a au-ae-a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-          uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeo                a au-ae-        a au-ae-        a au-ae-a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio "+"-"*160
-lyric_seq2 = " " * 65 +"k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik   fsgnn i r hrn i oonno t g s r  ngrtk r u tdk r u tds        asgkrmd         amtfram         ktwfrws         tdtgrdk        k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik   fsgnn i r hrn i oonno t g s r  ngrtk r u tdk r u tds        asgkrmd         amtfram         ktwfrws         tdtgrdk        ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik "+" "*160
-lyric_seq1 = " " * 65 +"o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso           fsgnn i r hrn i oonno t g s r  ngrtk r u tds                ktruudk         kntfrkz         atmfrws tdtgrdk        o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso           fsgnn i r hrn i oonno t g s r  ngrtk r u tds                ktruudk         kntfrkz         atmfrws tdtgrdk        ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso "+" "*160
+mouth_sequence2="-"*64+"o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-  uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeu-u-u-aeo        a au-ae-        a au-ae-        a au-ae-        a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-  uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeu-u-u-aeo        a au-ae-        a au-ae-        a au-ae-        a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio "+"-"*160
+mouth_sequence1="-"*64+"o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-          uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeo                a au-ae-        a au-ae-        a au-ae-a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio-          uiiae-i-o oae-i-o--ao o-a-u-u- aaeeu-u-u-aeo                a au-ae-        a au-ae-        a au-ae-a au-ae-       o o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio o a o o a e a a o a a i e i u o u o o a i a a i a e a a a a aio "+"-"*160
+lyric_seq2 = " " * 64 +"k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik   fsgnn i r hrn i oonno t g s r  ngrtk r u tdk r u tds        asgkrmd         amtfram         ktwfrws         tdtgrdk        k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik   fsgnn i r hrn i oonno t g s r  ngrtk r u tdk r u tds        asgkrmd         amtfram         ktwfrws         tdtgrdk        ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??k t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik "+" "*160
+lyric_seq1 = " " * 64 +"o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso           fsgnn i r hrn i oonno t g s r  ngrtk r u tds                ktruudk         kntfrkz         atmfrws tdtgrdk        o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso           fsgnn i r hrn i oonno t g s r  ngrtk r u tds                ktruudk         kntfrkz         atmfrws tdtgrdk        ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ? ??o t n n k t e w n z b k r d i t m t m n s s a t r m e g w k r nik t b n o b k g m d k r m t i r y r n t b r a s n n r b d m t rso "+" "*160
 index=0
 mouth1=" "
 mouth2=" "
 lyric1=" "
 lyric2=" "
-blink = 0
 def update():
     global index, mouth1, mouth2, lyric1, lyric2
 
@@ -82,7 +81,6 @@ def play_music():
     
     
 def draw_handler(canvas):
-    global blink
     def draw_character(i):
         
         #back hair
@@ -105,7 +103,16 @@ def draw_handler(canvas):
         canvas.draw_polygon([(280+i,105),(195+i,175),(155+i,400),(190+i,465),(235+i,465),(260+i,385),(240+i,240),(275+i,195),(445+i,195), (480+i,240), (460+i,385), (485+i,465), (530+i,465), (565+i,400), (525+i,175), (440+i,105)],8,colors["dgreen"],colors["green"])
         canvas.draw_line((330+i,300),(390+i,300),8,"black")
         
-        if blink % 800 in range(0,20):
+        if (index>304 and index<318) or (index>561 and index<575):
+            canvas.draw_polygon([(235+i,250),(310+i,240),(325+i,270),(235+i,275)],1,"black","black")
+            canvas.draw_polygon([(485+i,250),(410+i,240),(395+i,270),(485+i,275)],1,"black","black")
+            canvas.draw_circle((290+i,292),10,8,colors["dblue"],colors["blue"])
+            canvas.draw_circle((430+i,292),10,8,colors["dblue"],colors["blue"])
+            canvas.draw_line((260+i,325),(315+i,325),8,"black")
+            canvas.draw_line((460+i,325),(405+i,325),8,"black")
+            canvas.draw_polygon([(275+i,350),(275+i,360),(285+i,360),(285+i,350),(285+i,360),(275+i,360)],5,"black")
+            canvas.draw_polygon([(445+i,350),(445+i,360),(435+i,360),(435+i,350),(435+i,360),(445+i,360)],5,"black")
+        elif index % 40 in [1] or index == 304 or index == 318 or index == 561 or index == 575:
             canvas.draw_polygon([(235+i,270),(320+i,268),(330+i,310),(235+i,312)],1,"black","black")
             canvas.draw_polygon([(485+i,270), (400+i,268), (390+i,310), (485+i,312)],1,"black","black")
         else:
@@ -115,8 +122,13 @@ def draw_handler(canvas):
             canvas.draw_circle((435+i,292),20,5,colors["dblue"],colors["dblue"])
             canvas.draw_polygon([(235+i,255),(320+i,253),(330+i,285),(235+i,287)],1,"black","black")
             canvas.draw_polygon([(485+i,255), (400+i,253), (390+i,285), (485+i,287)],1,"black","black")
-        
-    blink+=1
+    
+   
+    for n in range((index//2) % 8 + 1):  
+        x = 18 + n * 88             
+        if index>64:
+            canvas.draw_polygon([(x, 18), (x, 83), (x + 65, 83), (x + 65, 18)],5, colors["dyellow"])
+            canvas.draw_polygon([(653-x, 702), (653-x, 637), (653-x + 65, 637), (653-x + 65, 702)],5, colors["dyellow"])
     
     draw_character(-340)
     draw_character(340)
@@ -124,12 +136,17 @@ def draw_handler(canvas):
     draw_mouth(canvas, mouth1, -340)
     draw_mouth(canvas, mouth2, 340)
     #consonants
-    canvas.draw_text(lyric1.upper(), (305, 360), 40, "black")
-    canvas.draw_text(lyric2.upper(), (385, 360), 40, "black")
+    canvas.draw_text(lyric1.upper(), (305, 360), 40, colors["dbrown"])
+    canvas.draw_text(lyric2.upper(), (385, 360), 40, colors["dbrown"])
     #subtitle
     if index >= 32 and index < 56:
-        canvas.draw_text("Ricci Wang", (260, 360), 35, "black")
-    
+        canvas.draw_text("The ghost of words", (245, 360), 25, colors["dbrown"])
+    elif index >= 836 and index <= 864:
+        canvas.draw_text("Song Furokuro", (260, 360), 29, colors["dbrown"])
+    elif index >= 864 and index <= 896:
+        canvas.draw_text("By Ricci Wang", (260, 360), 29, colors["dbrown"])
+    elif index >= 960:
+        canvas.draw_polygon([(0,0),(0,750),(750,750),(750,0)],5,"black","black")
     
 frame = simplegui.create_frame("Words", 720, 720)
 timer = simplegui.create_timer(188, update)
