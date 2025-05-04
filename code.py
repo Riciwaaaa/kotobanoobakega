@@ -144,7 +144,7 @@ def draw_handler(canvas):
     elif index >= 836 and index <= 864:
         canvas.draw_text("Song Furokuro", (260, 360), 29, colors["dbrown"])
     elif index >= 864 and index <= 896:
-        canvas.draw_text("By Ricci Wang", (260, 360), 29, colors["dbrown"])
+        canvas.draw_text("By Riciwaaaa", (260, 360), 30, colors["dbrown"])
     elif index >= 960:
         canvas.draw_polygon([(0,0),(0,750),(750,750),(750,0)],5,"black","black")
     
