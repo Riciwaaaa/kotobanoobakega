@@ -140,18 +140,19 @@ def draw_handler(canvas):
     canvas.draw_text(lyric2.upper(), (385, 360), 40, colors["dbrown"])
     
     #subtitle
-    
     if index >= 32 and index < 56:
         canvas.draw_text("The ghost of words", (245, 360), 25, colors["dbrown"])
+    elif index >= 57 and index < 64:
+        canvas.draw_text("Song Furokuro", (270, 360), 25, colors["dbrown"])
     elif index >= 836 and index <= 864:
-        canvas.draw_text("Song", (325, 350), 30, colors["dbrown"])
-        canvas.draw_text("Furokuro", (292, 387), 30, colors["dbrown"])
-    elif index >= 864 and index <= 896:
         canvas.draw_text("Tuning & PV", (267, 350), 30, colors["dbrown"])
         canvas.draw_text("Riciwaaaa", (282, 387), 30, colors["dbrown"])
-    elif index >= 896 and index <= 928:
+    elif index >= 864 and index <= 896:
         canvas.draw_text("Vocal", (320, 350), 30, colors["dbrown"])
         canvas.draw_text("OdangoKun", (275, 387), 30, colors["dbrown"])
+    elif index >= 896 and index <= 928:
+        canvas.draw_text("UST", (330, 350), 30, colors["dbrown"])
+        canvas.draw_text("Cage Tsukiakari", (245, 387), 30, colors["dbrown"])
     elif index >= 928 and index < 960:
         canvas.draw_text("Voicebank CV", (260, 350), 30, colors["dbrown"])
         canvas.draw_text("Sayaka Chikage", (248, 387), 30, colors["dbrown"])
