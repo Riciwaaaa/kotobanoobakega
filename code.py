@@ -9,7 +9,7 @@
 
 import simplegui
 
-music = simplegui.load_sound("https://riciwaaaa.github.io/schoolstuff/music.mp3")
+music = simplegui.load_sound("https://riciwaaaa.github.io/kotobanoobakega/music.mp3")
 is_preloaded = False
 
 colors={
@@ -138,13 +138,23 @@ def draw_handler(canvas):
     #consonants
     canvas.draw_text(lyric1.upper(), (305, 360), 40, colors["dbrown"])
     canvas.draw_text(lyric2.upper(), (385, 360), 40, colors["dbrown"])
+    
     #subtitle
+    
     if index >= 32 and index < 56:
         canvas.draw_text("The ghost of words", (245, 360), 25, colors["dbrown"])
     elif index >= 836 and index <= 864:
-        canvas.draw_text("Song Furokuro", (260, 360), 29, colors["dbrown"])
+        canvas.draw_text("Song", (325, 350), 30, colors["dbrown"])
+        canvas.draw_text("Furokuro", (292, 387), 30, colors["dbrown"])
     elif index >= 864 and index <= 896:
-        canvas.draw_text("By Riciwaaaa", (260, 360), 30, colors["dbrown"])
+        canvas.draw_text("Tuning & PV", (267, 350), 30, colors["dbrown"])
+        canvas.draw_text("Riciwaaaa", (282, 387), 30, colors["dbrown"])
+    elif index >= 896 and index <= 928:
+        canvas.draw_text("Vocal", (320, 350), 30, colors["dbrown"])
+        canvas.draw_text("OdangoKun", (275, 387), 30, colors["dbrown"])
+    elif index >= 928 and index < 960:
+        canvas.draw_text("Voicebank CV", (260, 350), 30, colors["dbrown"])
+        canvas.draw_text("Sayaka Chikage", (248, 387), 30, colors["dbrown"])
     elif index >= 960:
         canvas.draw_polygon([(0,0),(0,750),(750,750),(750,0)],5,"black","black")
     
