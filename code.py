@@ -9,7 +9,7 @@
 
 import simplegui
 
-music = simplegui.load_sound("https://riciwaaaa.github.io/kotobanoobakega/music.mp3")
+music = simplegui.load_sound("https://riciwaaaa.github.io/kotobanoobakega/music2.mp3")
 is_preloaded = False
 
 colors={
